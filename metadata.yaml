@@ -1,5 +1,8 @@
 _repo: The-Rover-Boys-in-the-Jungle--Or-Stirring-Adventures-in-Africa_5770
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5770#The-Rover-Boys-in-the-Jungle--Or-Stirring-Adventures-in-Africa
 gutenberg_bookshelf:
 - Children's Book Series
 - Africa
